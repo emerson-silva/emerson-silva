@@ -1,4 +1,8 @@
-### Hi there 👋
+### [WIP]
+
+- 🔭 I’m currently working on ... My Game Design/Development Portfolio
+- 🌱 I’m currently learning ... Spring Boot and Unity 3D
+
 
 <!--
 **emerson-silva/emerson-silva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
