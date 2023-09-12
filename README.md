@@ -1,8 +1,8 @@
-### [WIP]
+### Hi! This is my Portfolio Page :D I'm glad you got here!
 
-- 🔭 I’m currently working on ... My Game Design/Development Portfolio
-- 🌱 I’m currently learning ... Spring Boot and Unity 3D
-
+## My name is Emerson and this is a little summary about me:
+- 🔭 I’m currently working on my Game Design and Game Development Portfolio.
+- 🌱 I’m currently learning a lot of things! I spend the most time studying Spring Boot and GameDevelopment.
 
 <!--
 **emerson-silva/emerson-silva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
