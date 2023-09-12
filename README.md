@@ -1,6 +1,6 @@
-### Hi! This is my Portfolio Page :D I'm glad you got here!
+## Hi! This is my Portfolio Page :D I'm glad you got here!
 
-## My name is Emerson and this is a little summary about me:
+### My name is Emerson and this is a little summary about me:
 - 🔭 I’m currently working on my Game Design and Game Development Portfolio.
 - 🌱 I’m currently learning a lot of things! I spend the most time studying Spring Boot and GameDevelopment.
 
